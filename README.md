@@ -1,6 +1,6 @@
 # Emotion Detection in Twitter Feeds with Neural Networks
 
-# Group number 2
+# Group number 1
 * Asnova Jahan Reana (2021-2-60-093)
 * Yougshree Saha Urmy (2021-1-60-127)
 
